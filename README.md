@@ -1,5 +1,7 @@
 #Pingzy
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/pingzy.svg)](https://www.guardrails.io)
+
 __Ultra cheap website monitoring. Posts downtime notifications to Slack.__
 
 15 seconds setup:
